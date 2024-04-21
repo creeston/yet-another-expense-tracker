@@ -10,16 +10,16 @@ Welcome to the support page for Yet Another Expense Tracker application, the eas
 
 ## How to Use
 
-Adding Expenses: Tap the "+" button on the home screen to add a new expense. Fill in the details and save.
-Viewing Expenses: See your expenses categorized and visualized with informative graphs and lists.
-Syncing Data: To sync data between devices, go to the 'Profile' section, and follow the instructions for syncing with another device.
-Frequently Asked Questions (FAQs)
+ - Adding Expenses: Tap the "+" button on the home screen to add a new expense. Fill in the details and save.
+ - Viewing Expenses: See your expenses categorized and visualized with informative chart and lists.
+ - Syncing Data: To sync data between devices, go to the 'Profile' section, and follow the instructions for syncing with another device.
 
-Feedback
+
+## Feedback
 
 Your feedback is important to us. If you have any suggestions or encounter any problems while using Yet Another Expense Tracker, please let us know by submitting an issue on our GitHub repository.
 
-Contact Us
+## Contact Us
 
 Need more help? Contact our support team at simpleexpensetrackerapp@example.com.
 
