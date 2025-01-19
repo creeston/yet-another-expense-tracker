@@ -1,8 +1,14 @@
-# Yet Another Expense Tracker Support
+<div align="center">
+    <img src="docs/static/adaptive-icon.png" height="128px"/>
+    <h1 align="center">Yet Another Expense Tracker</h1>
+</div>
 
-Welcome to the support page for Yet Another Expense Tracker application, the easy-to-use app designed to help you keep track of your expenses effortlessly across all of your devices.
 
-## Features
+Welcome to the support page for **Yet Another Expense Tracker** application, the easy-to-use app designed to help you keep track of your expenses effortlessly across all of your devices.
+
+<img src="docs/static/screenshots.png" />
+
+# Features
 
  - Track Expenses: Categorize and record your expenses to see where your money goes, with a detailed overview by category.
  - Synchronization: Keep your data consistent across multiple devices with our seamless synchronization feature.
@@ -17,10 +23,10 @@ Welcome to the support page for Yet Another Expense Tracker application, the eas
 
 ## Feedback
 
-Your feedback is important to us. If you have any suggestions or encounter any problems while using Yet Another Expense Tracker, please let us know by submitting an issue on our GitHub repository.
+Your feedback is important to us. If you have any suggestions or encounter any problems while using Yet Another Expense Tracker, please let us know by submitting an issue on our GitHub repository or via email simpleexpensetrackerapp@gmail.com
 
 ## Contact Us
 
-Need more help? Contact our support team at simpleexpensetrackerapp@example.com.
+Need more help? Contact our support at simpleexpensetrackerapp@gmail.com
 
 Thank you for choosing Yet Another Expense Tracker!
