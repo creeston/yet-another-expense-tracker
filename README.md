@@ -3,7 +3,7 @@
     <h1 align="center">Yet Another Expense Tracker</h1>
 </div>
 
-[![Download on the App Store](https://img.shields.io/badge/App%20Store-Open-blue?style=for-the-badge&logo=apple&logoColor=white)]([YOUR_APP_STORE_LINK](https://apps.apple.com/us/app/yet-another-expense-tracker/id6499101663))
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Open-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/yet-another-expense-tracker/id6499101663)
 
 
 Welcome to the support page for **Yet Another Expense Tracker**, the easy-to-use app designed to help you effortlessly track your expenses across all your devices.
